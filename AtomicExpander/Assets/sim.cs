@@ -10,7 +10,7 @@ public class sim : MonoBehaviour
         
     }
 
-    // Update is called once per frame meu pau no seu [coisa que rima com frame]
+    // Update is called once per frame meu pau na tua lane
     void Update()
     {
         
